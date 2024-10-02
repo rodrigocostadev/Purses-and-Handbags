@@ -1,0 +1,30 @@
+@media screen and (max-width: 1200px) {
+    #products{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #products{
+        grid-template-columns: 1fr;
+    }
+    h1{
+        font-size: 130px;
+    }
+}
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 100px;
+    }
+    .title{
+        font-size: 25px;
+        font-weight: 100;
+    }
+    .sub-title{
+        font-size: 15px ;
+    }
+    nav{
+        display: flex;
+        gap: 5px;
+    }
+}

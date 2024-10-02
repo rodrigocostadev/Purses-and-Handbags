@@ -5,32 +5,32 @@ let handbags = [
     {
         name:"Bolsa Roux & Robin Couro Vermelha",
         price: "R$ 4300,00",
-        picture: '../assets/f16.jpg'
+        picture: './assets/f16.jpg'
     },
     {
         name:"Bolsa Tiracolo Bucket Esther",
         price: "R$ 2900,00",
-        picture: '../assets/f17.jpg'
+        picture: './assets/f17.jpg'
     },
     {
         name:"Bolsa Lucky Girl Couro Vermelha",
         price: "R$ 2400,00",
-        picture: '../assets/f18.jpg'
+        picture: './assets/f18.jpg'
     },
     {
         name:"Bolsa Shoulder Branca",
         price: "R$ 800,00",
-        picture: '../assets/f12.jpg'
+        picture: './assets/f12.jpg'
     },
     {
         name:"Bolsa Shopping Prada Couro Branco",
         price: "R$ 1500,00",
-        picture: '../assets/f1.jpg'
+        picture: './assets/f1.jpg'
     },
     {
         name:"Bolsa Média Believe Summer",
         price: "R$ 900,00",
-        picture: '../assets/f5.jpg'
+        picture: './assets/f5.jpg'
     },
     
     // {
@@ -41,17 +41,17 @@ let handbags = [
     {
         name:"Bolsa Shoulder Mary Double Couro",
         price: "R$ 1600,00",
-        picture: '../assets/f7.jpg'
+        picture: './assets/f7.jpg'
     },
     {
         name:"Bolsa Shoulder Tina Média Bege",
         price: "R$ 700,00",
-        picture: '../assets/f3.jpg'
+        picture: './assets/f3.jpg'
     },
     {
         name:"Bolsa Mini Aryna",
         price: "R$ 800,00",
-        picture: '../assets/f9.jpg'
+        picture: './assets/f9.jpg'
     },
     // {
     //     name:"Bolsa 10",
@@ -65,17 +65,17 @@ let handbags = [
     {
         name:"Bolsa Bolsa Mini Shoulder Amarela",
         price: "R$ 1300,00",
-        picture: '../assets/f20.jpg'
+        picture: './assets/f20.jpg'
     },
     {
         name:"Bolsa Maxi Tote Aryna",
         price: "R$ 1600,00",
-        picture: '../assets/f13.jpg'
+        picture: './assets/f13.jpg'
     },
     {
         name:"Bolsa Tote Aryna",
         price: "R$ 1800,00",
-        picture: '../assets/f15.jpg'
+        picture: './assets/f15.jpg'
     },
     // {
     //     name:"Bolsa 19",
